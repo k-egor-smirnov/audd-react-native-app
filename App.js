@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
-import MainScreen from './MainScreen'
+import MainScreen from './src/MainScreen'
 
 class App extends React.Component<{}> {
   render() {
